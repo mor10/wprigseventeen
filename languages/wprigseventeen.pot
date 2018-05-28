@@ -1,0 +1,307 @@
+# Copyright (C) 2018 wprigseventeen
+# This file is distributed under the same license as the wprigseventeen package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wprigseventeen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Morten Rand-Hendriksen\n"
+"Report-Msgid-Bugs-To: wprigseventeen\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:48, index.php:52, search.php:45
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:49, index.php:53, search.php:46
+msgid "Next page"
+msgstr ""
+
+#: archive.php:50, index.php:54, search.php:47
+msgid "Page"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:39
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:43
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:64
+msgid "Reply"
+msgstr ""
+
+#: comments.php:73, single.php:36
+msgid "Previous"
+msgstr ""
+
+#: comments.php:74, single.php:37
+msgid "Next"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:26
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: functions.php:64, functions.php:191, template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:65, functions.php:202
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:159
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr ""
+
+#: functions.php:163
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr ""
+
+#: functions.php:167
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr ""
+
+#: functions.php:287
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:334, sidebar.php:18
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:336
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:346
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:348, functions.php:360
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:358
+msgid "Footer 2"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: functions.php:388, template-parts/page/content-front-page-panels.php:45, template-parts/page/content-front-page.php:42, template-parts/post/content-audio.php:84, template-parts/post/content-gallery.php:71, template-parts/post/content-image.php:61, template-parts/post/content-video.php:83, template-parts/post/content.php:57
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: functions.php:496
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:497
+msgid "Collapse child menu"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: index.php:27
+msgid "Posts"
+msgstr ""
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:21, template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:54
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single.php:36
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:37
+msgid "Next Post"
+msgstr ""
+
+#: inc/back-compat.php:39, inc/back-compat.php:52, inc/back-compat.php:68
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/custom-header.php:54
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/custom-header.php:125
+msgid "Play background video"
+msgstr ""
+
+#: inc/custom-header.php:126
+msgid "Pause background video"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Light"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "When the two-column layout is assigned, the page title is in one column and content is in the other."
+msgstr ""
+
+#: inc/customizer.php:101, inc/customizer.php:157
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:102, inc/customizer.php:158
+msgid "Two Column"
+msgstr ""
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:130
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr ""
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#. translators: %s: post author
+#: inc/template-tags.php:60
+msgid "by %s"
+msgstr ""
+
+#. translators: %s: post date
+#: inc/template-tags.php:91
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:124
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:128
+msgid "Tags"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:156
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-tags.php:190
+msgid "Front Page Section %1$s Placeholder"
+msgstr ""
+
+#: template-parts/footer/footer-widgets.php:18
+msgid "Footer"
+msgstr ""
+
+#: template-parts/footer/site-info.php:18
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: template-parts/footer/site-info.php:19
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: template-parts/header/site-branding.php:34, template-parts/navigation/navigation-top.php:31
+msgid "Scroll down to content"
+msgstr ""
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr ""
+
+#: template-parts/page/content-page.php:25, template-parts/post/content-audio.php:91, template-parts/post/content-gallery.php:78, template-parts/post/content-image.php:68, template-parts/post/content-video.php:90, template-parts/post/content.php:64
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
